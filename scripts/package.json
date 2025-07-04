@@ -1,0 +1,23 @@
+{
+  "name": "wave-invoice-scraper",
+  "version": "1.0.0",
+  "description": "Automated Wave invoice data extraction and Excel export",
+  "main": "scrape.js",
+  "scripts": {
+    "start": "node scrape.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wave",
+    "invoices",
+    "automation",
+    "scraping",
+    "excel"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.0.0",
+    "xlsx": "^0.18.5"
+  }
+}
