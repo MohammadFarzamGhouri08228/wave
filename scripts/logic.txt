@@ -1,0 +1,24 @@
+- Date
+- DATA
+
+date of current which is invoice data	
+customers; billing to ( store that )
+Description : items heading in bold 	
+invoice #
+payment by either :
+payment cash	
+payment chq	
+payment card
+
+in these 3 categories: add in the respective coulumn and tax if any (refer to sample)
+
+or outstanding (if none of the above this will be the amount in amount due if any )
+then total amount due in outstanding vala column and the respective tax in tax column
+	
+Tax collected	
+
+Total calculated by either cash/card/cheque + respective TAX or in the case of outstanding , the entire outstanding amount as it is 	
+NOTES: note any discounts being made ( these will usually be in green but do not restrict yourself to that , check will give you a sample later on 	
+profit	
+reconfirm
+
