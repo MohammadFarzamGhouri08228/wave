@@ -1,0 +1,63 @@
+first go here:
+
+https://louisianalottery.com/scratch-offs/
+
+this is lousiana country 
+
+click on the first ticket and open it in a new tab 
+
+note the game number noted after game no 
+
+note game name, 
+
+note country 
+
+note game valeu and packsize
+
+go on https://beyondlotterytv.com/login
+
+perform login:
+email : superadmin2@tv-app.com
+pass:superadmin2@tv-app.com
+
+click on taskbar and head to games section
+
+first check if the game number in this case 1614 exits
+
+if it exists, click on pencil icon and verify the country 
+
+if country name and game num is the same then 
+
+print("ENJOY")
+
+ELSE if country name is not same and even if ticket num is same 
+
+then do task a:
+
+ElSe if ticket num is not same then do taska:
+
+
+
+task a:
+
+click on create new game
+
+enter game num
+
+game value
+
+NA in pack size in case of lousiana country
+
+in deatils (this is a typo on the website do not correct this) , 
+name  of the ticket in this case $1,000 jackpot
+
+select region from the dropdown in this case lousiana 
+
+
+task b:
+
+take a snipping tool only cocering the length of the iamge showing the ticket iamge only in a sqaure like figure and save it 
+
+task c:
+
+upload the image done in task b by clicking teh thumbnail and uploading the image.
